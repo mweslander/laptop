@@ -17,6 +17,7 @@ We support:
 * macOS El Capitan (10.11)
 * macOS Sierra (10.12)
 * macOS High Sierra (10.13)
+* macOS Mojave (10.14)
 
 Older versions may work but aren't regularly tested.
 Bug reports for older versions are welcome.
@@ -106,13 +107,6 @@ GitHub tools:
 Image tools:
 
 * [ImageMagick] for cropping and resizing images
-
-Testing tools:
-
-* [Qt 5] for headless JavaScript testing via [Capybara Webkit]
-
-[Qt 5]: http://qt-project.org/
-[Capybara Webkit]: https://github.com/thoughtbot/capybara-webkit
 
 Programming languages, package managers, and configuration:
 
@@ -219,7 +213,7 @@ you agree to abide by the thoughtbot [code of conduct].
 License
 -------
 
-Laptop is © 2011-2017 thoughtbot, inc.
+Laptop is © 2011-2018 thoughtbot, inc.
 It is free software,
 and may be redistributed under the terms specified in the [LICENSE] file.
 
